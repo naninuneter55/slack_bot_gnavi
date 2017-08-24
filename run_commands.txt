@@ -81,7 +81,7 @@ npm WARN hubot-help@0.2.2 requires a peer of coffee-script@^1.12.6 but none was 
 + hubot-slack@4.3.4
 added 229 packages in 20.248s
 $ export HUBOT_LOG_LEVEL=debug
-$ export HUBOT_SLACK_TOKEN=xoxb-225119205136-4IrtoOq6jEBl4vSKHiXrHrY8
+$ export HUBOT_SLACK_TOKEN=xxxxxxxxxx
 $ bin/hubot —-adapter slack
 
 GitHub にリポジトリ（slack_bot_gnavi）を作成
